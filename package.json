@@ -1,0 +1,29 @@
+{
+  "name": "buymeacoffee-defi",
+  "version": "1.0.0",
+  "description": "Buy me a coffee defi version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mertdeveci5/buyMeACoffee-defi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mertdeveci5/buyMeACoffee-defi/issues"
+  },
+  "homepage": "https://github.com/mertdeveci5/buyMeACoffee-defi#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "ethereum-waffle": "^3.4.4",
+    "hardhat": "^2.10.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
